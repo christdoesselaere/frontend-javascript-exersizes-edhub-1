@@ -1,7 +1,7 @@
 // ==========================================
 // 1. Declareer een variabele en sla daar een array met vier jaartallen in op.              // bijv. 2020, 2019, 2018 en 2017
 // ==========================================
-let year = [2017, 2018, 2019, 2020]
+let year = [2017, 2018, 2019, 2020];
 
 // ==========================================
 // 2. Declareer een variabele en sla daar een array met drie van jouw hobbies in op.         // bijv. schaken, koekjes eten en muziek luisteren
@@ -31,7 +31,7 @@ console.log(color[1]);
 // ==========================================
 let array = [21, 22, 23, 25, 25];
 array[3] = 24;
-console.log(array)
+console.log(array);
 
 // ==========================================
 // 6a. Declareer een variabele met daarin een array met de waardes bladerdeeg, knoflook, spinazie
@@ -40,6 +40,6 @@ console.log(array)
 // 6d. Log de lengte van de array in de terminal                                            // geeft 3
 // ==========================================
 const ingredients = ["bladerdeeg", "knoflook", "spinazie"];
-ingredients[0] = "lasagne bladen"
-console.log(ingredients)
-console.log(ingredients.length)
+ingredients[0] = "lasagne bladen";
+console.log(ingredients);
+console.log(ingredients.length);
