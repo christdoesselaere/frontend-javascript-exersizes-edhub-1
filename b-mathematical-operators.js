@@ -31,24 +31,24 @@ console.log(answer4);
 // Declareer nog een variabele en sla daarin de samenvoeging van bovenstaande variabelen in op.     // geeft 'zoetsappig'
 // ==========================================
 const value1 = "zoet";
-const value2 = "sappig"
-console.log(value1 + value2)
+const value2 = "sappig";
+console.log(value1 + value2);
 
 // ==========================================
 // 6. Declareer een variabele voor jouw voornaam en een variabele voor jouw achternaam en zet de waardes erin.
 // Declareer vervolgens een variabele voor jouw volledige naam en plak bovenstaande variabelen aan elkaar.
 // Zorg dat er een spatie tussen zit zonder iets aan de originele variabelen te veranderen.        // geeft bijv. 'Henk Pieters'
 // ==========================================
-const name = "Christ"
-const insertion = "van"
-const surName = "Doesselaere"
-console.log(name + " " + insertion + " " + surName)
+const name = "Christ";
+const insertion = "van";
+const surName = "Doesselaere";
+console.log(name + " " + insertion + " " + surName);
 
 // ==========================================
 // 7. Declareer een variabele voor jouw woonplaats en een variabele voor provincie en zet de waardes erin.
 // Declareer vervolgens een variabele voor jouw locatie en plak jouw de woonplaats en provincie aan elkaar.
 // Zorg dat er een komma en spatie tussen zit zonder iets aan de originele variabelen te veranderen. // geeft bijv. Maastricht, Limburg
 // ==========================================
-const residence = "Veldhoven"
-const province = "Noord-Brabant"
-console.log(residence + ", " + province)
+const residence = "Veldhoven";
+const province = "Noord-Brabant";
+console.log(residence + ", " + province);
